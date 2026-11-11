@@ -34,3 +34,7 @@ Scope varies: some roles are customer-facing, while others own internal product 
 [Anthropic Applied AI role directory](https://www.anthropic.com/careers/jobs?team=4002065008) documents this title or a closely related specialization. These profiles are editorial role-family summaries, not copied job descriptions. Directory pages support title examples; individual responsibilities must be checked in the current listing. Openings can close or change.
 
 [Compare with other roles](/compare) · [Choose a learning path](/learning-paths)
+
+## Specific employer comparison
+
+See the [November 11 role cards and research decisions](/career-research) for original descriptions, qualifications, availability limits, and proposed portfolio checks.

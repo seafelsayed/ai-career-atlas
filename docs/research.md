@@ -25,3 +25,7 @@ Record the employer, exact title, URL, review date, and a short paraphrase of th
 ## Website implementation
 
 Built with [VitePress](https://vitepress.dev/). The publishing workflow follows the [official VitePress deployment guide](https://vitepress.dev/guide/deploy).
+
+## November 11 research checkpoint
+
+Read the [two employer role cards and research-to-decision chain](/career-research), then follow the [review and verification record](/review-record). These pages extend this existing project record. The two selected descriptions were checked November 11; the earlier directory references above retain their November 5 review date.

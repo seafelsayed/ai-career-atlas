@@ -38,3 +38,7 @@ The website URL is **https://seafelsayed.github.io/ai-career-atlas/**. A success
 ## Contributing
 
 Edit Markdown in `docs/`. Include a primary source and review date for role claims, distinguish interpretation from employer statements, and run `npm run docs:build` before submitting changes. See [research methodology](docs/research.md).
+
+## Portfolio research checkpoint — November 11
+
+[Two original employer descriptions and research decisions](https://seafelsayed.github.io/ai-career-atlas/career-research.html) · [Review and verification record](https://seafelsayed.github.io/ai-career-atlas/review-record.html). Personal reflection and eligibility circumstances are submitted privately in Canvas.
