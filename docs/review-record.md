@@ -18,7 +18,7 @@ The reviewer request is published on the [research page](/career-research#review
 
 - Original descriptions opened and card claims compared on November 11.
 - Production build: `npm run docs:build` passed on November 11, 2026; VitePress rendered all pages successfully.
-- Publication: pending; a local build is not a deployment result.
+- Publication: research commit [6b281c6](https://github.com/seafelsayed/ai-career-atlas/commit/6b281c636a7fff2b0a214f394415599bcab1a885) was pushed. The [live research page](https://seafelsayed.github.io/ai-career-atlas/career-research.html) rendered the role cards, source links, decision table, and reviewer task in a browser on November 11. [Publishing workflow](https://github.com/seafelsayed/ai-career-atlas/actions/runs/43108384290). This confirms publication, not a human reviewer retry.
 - Independent reviewer retry: pending.
 
 ## Process for incoming feedback
