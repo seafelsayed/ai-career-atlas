@@ -2,7 +2,7 @@
 
 **PLAN-001 · Prepared November 16, 2026 · IS117-007 · Due November 17, 2026, 8:30 a.m. Eastern.**
 
-This continues the [career research record](/career-research) in Seaf Elsayed's existing [individual repository](https://github.com/seafelsayed/ai-career-atlas). It is an AI-assisted proposed plan, not a finished personal portfolio or evidence of completed peer participation. The current deployed site is the AI Career Atlas; the planned portfolio landing page has not been built. No second Research submission is proposed.
+This continues the [career research record](/career-research) in Seaf Elsayed's existing [individual repository](https://github.com/seafelsayed/ai-career-atlas). It is an AI-assisted proposed plan, not a finished personal portfolio. Seaf reports that Varnit Monga reviewed this Portfolio Plan and recommended no changes; [review details and limits](/review-record#portfolio-peer-review-—-reported-by-seaf) are recorded separately. The current deployed site is the AI Career Atlas; the planned portfolio landing page has not been built. No second Research submission is proposed.
 
 ## Reader, goal, and evidence carried forward
 
@@ -29,7 +29,7 @@ Both approaches use the **same content and destinations**: introduction, three c
 | A — Evidence-first case studies (recommended) | Brief introduction and opportunity goal → three concise project cards → focused case studies with problem/options/decision/contribution/checks/limits → professional materials and contact. Keep résumé/profile shortcuts near the introduction. | Supports F1/F2 by connecting work to decisions and checks. Risk: too much text; use a short summary and expandable/detail links. |
 | B — Résumé-first overview | Introduction and opportunity goal → skills/experience summary → professional materials → the same three projects and evidence sections. | Fast access to qualifications and documents. Risk: generic skill claims can overshadow verifiable course work; every skill must link to evidence or be labeled coursework. |
 
-**Proposed choice:** A, because the existing course artifacts can show specific decisions, AI assistance and checks more honestly than an expert-style skills pitch. This is an AI recommendation awaiting Seaf's reasoned choice and peer review, not a recorded student vote. Build both page options later with identical content so a reviewer can compare their order fairly; Plan does not claim those versions already exist.
+**Proposed choice:** A, because the existing course artifacts can show specific decisions, AI assistance and checks more honestly than an expert-style skills pitch. This remains an AI recommendation rather than a recorded reasoned student choice. Seaf reports Varnit reviewed the plan and recommended no changes; no detailed A/B preference or walkthrough result was supplied. Build both page options later with identical content so a reviewer can compare their order fairly; Plan does not claim those versions already exist.
 
 ## Five checkable stories and essential features
 
@@ -102,6 +102,6 @@ Use small authentic screenshots of the existing projects with descriptive altern
 
 **Defer:** chatbot, live job feed, account creation, analytics, animated effects and a contact form. Current evidence does not justify their cost or data handling. No finished product is claimed at Plan.
 
-**Next steps:** Seaf reviews the proposed audience/approach and confirms the group repository and approved résumé/contact version; a classmate compares A/B and checks S2/S3; record actual feedback in this repository's issues, choose a response with a reason, link a documentation change and verify it. Portfolio feedback from Common Canvas is not automatically feedback on this plan.
+**Next steps:** Seaf reviews the proposed audience/approach and confirms the group repository and approved résumé/contact version; record any detailed follow-up from Varnit in this repository's issues and perform the planned A/B and S2/S3 checks during Build. His reported general no-change recommendation is recorded in the review record. Portfolio feedback from Common Canvas is not automatically feedback on this plan.
 
 **AI assistance:** Codex inspected the existing career findings, course portfolio checklist, repository and supplied résumé; drafted the approaches, stories and acceptance checks; and prepared the documentation integration. The résumé is user-supplied evidence, not independently verified employment history. No student reasoning, source-review participation, peer comment or usability result is fabricated. The original PDF and private career reflection are not committed.
