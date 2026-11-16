@@ -42,3 +42,8 @@ Edit Markdown in `docs/`. Include a primary source and review date for role clai
 ## Portfolio research checkpoint — November 11
 
 [Two original employer descriptions and research decisions](https://seafelsayed.github.io/ai-career-atlas/career-research.html) · [Review and verification record](https://seafelsayed.github.io/ai-career-atlas/review-record.html). Personal reflection and eligibility circumstances are submitted privately in Canvas.
+
+
+## Portfolio Plan checkpoint — November 16
+
+[PLAN-001](https://seafelsayed.github.io/ai-career-atlas/portfolio-plan.html) continues the existing career research with two approaches, five checkable stories, professional-material destinations, visual direction and honest persuasion. The personal portfolio Build, missing destinations and real peer review remain pending; see the [review record](https://seafelsayed.github.io/ai-career-atlas/review-record.html).

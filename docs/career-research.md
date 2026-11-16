@@ -79,3 +79,8 @@ For this research round, each student files **3–5 constructive issues per clas
 ## AI assistance and limits
 
 OpenAI Codex helped locate employer pages, paraphrase and compare descriptions, identify conflicting wording, and draft the documentation and proposed checks. Claims in these two cards were compared against the linked original descriptions. Broader atlas profiles retain their earlier review dates; this update does not independently revalidate all six profiles. Student understanding, personal interest, and class participation cannot be established by AI.
+
+
+## Continue to Portfolio Plan
+
+[PLAN-001: two approaches, five stories, professional destinations and planned checks](/portfolio-plan) carries these dated findings forward. No additional Research submission is required.

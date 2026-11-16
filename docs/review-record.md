@@ -39,3 +39,12 @@ Status and next step:
 ```
 
 No reviewer identity, comment, issue number, verification output, or retry should be filled in until it actually exists.
+
+
+## Portfolio Plan — November 16, 2026
+
+[PLAN-001](/portfolio-plan) compares two page approaches, recommends evidence-first case studies, and specifies five stories with observable checks. It carries forward F1–F3 from career research. This is assignment-driven AI-assisted planning, not a response to peer feedback. The issues API returned no incoming issues when checked November 16.
+
+**Review request:** Please compare A/B with the same planned content, identify the intended reader, then trace S2 and S3 to the repository/profile/résumé destinations. Challenge one assumption or check and suggest a concrete next step in a [repository issue](https://github.com/seafelsayed/ai-career-atlas/issues/new). Actual reviewer identity, response, decision, change, verification and retry remain pending. If no reviewer responds, Seaf should contact the instructor promptly to arrange another reviewer. Do not reuse business-project feedback as portfolio review evidence.
+
+**Open destinations:** actual LinkedIn URL, a confirmed distinct group repository/member usernames, and an approved public résumé/contact version. The supplied résumé was inspected locally but not uploaded publicly. Plan stories are unrun; documentation build/link verification does not establish usability results.
