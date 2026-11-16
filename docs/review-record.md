@@ -47,4 +47,6 @@ No reviewer identity, comment, issue number, verification output, or retry shoul
 
 **Review request:** Please compare A/B with the same planned content, identify the intended reader, then trace S2 and S3 to the repository/profile/résumé destinations. Challenge one assumption or check and suggest a concrete next step in a [repository issue](https://github.com/seafelsayed/ai-career-atlas/issues/new). Actual reviewer identity, response, decision, change, verification and retry remain pending. If no reviewer responds, Seaf should contact the instructor promptly to arrange another reviewer. Do not reuse business-project feedback as portfolio review evidence.
 
-**Open destinations:** actual LinkedIn URL, a confirmed distinct group repository/member usernames, and an approved public résumé/contact version. The supplied résumé was inspected locally but not uploaded publicly. Plan stories are unrun; documentation build/link verification does not establish usability results.
+**LinkedIn destination:** [Seaf Elsayed](https://www.linkedin.com/in/seaf-elsayed-a36a3927b), supplied by Seaf; signed-out verification is still planned.
+
+**Open destinations:** a confirmed distinct group repository/member usernames and an approved public résumé/contact version. The supplied résumé was inspected locally but not uploaded publicly. Plan stories are unrun; documentation build/link verification does not establish usability results.

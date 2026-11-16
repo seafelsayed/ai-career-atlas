@@ -80,7 +80,7 @@ Essential features: review request, real issue links, implement/investigate/defe
 | Destination required in both options | Actual destination or planned location | Status / next action |
 | --- | --- | --- |
 | Own GitHub profile | [seafelsayed](https://github.com/seafelsayed) | Existing account; verify signed-out identity during Build |
-| Own LinkedIn profile | Not supplied | Request actual URL; no guessed profile or fictional account |
+| Own LinkedIn profile | [Seaf Elsayed](https://www.linkedin.com/in/seaf-elsayed-a36a3927b) | URL supplied by Seaf; signed-out destination check planned during Build |
 | T-shirt project repository | [is117-brand-studio](https://github.com/seafelsayed/is117-brand-studio) | Existing individual project; [live storefront](https://seafelsayed.github.io/is117-brand-studio/) |
 | Group business repository | [Common Canvas current research location](https://github.com/seafelsayed/is117-brand-studio) | Currently reuses the same repository as the T-shirt project. Label this duplication; a distinct shared group repository and member usernames have not been confirmed. Do not claim three separate repositories are verified. [Current group record](https://seafelsayed.github.io/is117-brand-studio/research.html) |
 | Portfolio source repository | [ai-career-atlas](https://github.com/seafelsayed/ai-career-atlas) | Continue the existing individual career/portfolio record. Current deployment is an atlas; personal portfolio Build is pending |
@@ -102,6 +102,6 @@ Use small authentic screenshots of the existing projects with descriptive altern
 
 **Defer:** chatbot, live job feed, account creation, analytics, animated effects and a contact form. Current evidence does not justify their cost or data handling. No finished product is claimed at Plan.
 
-**Next steps:** Seaf reviews the proposed audience/approach, supplies LinkedIn and confirms the group repository and approved résumé/contact version; a classmate compares A/B and checks S2/S3; record actual feedback in this repository's issues, choose a response with a reason, link a documentation change and verify it. Portfolio feedback from Common Canvas is not automatically feedback on this plan.
+**Next steps:** Seaf reviews the proposed audience/approach and confirms the group repository and approved résumé/contact version; a classmate compares A/B and checks S2/S3; record actual feedback in this repository's issues, choose a response with a reason, link a documentation change and verify it. Portfolio feedback from Common Canvas is not automatically feedback on this plan.
 
 **AI assistance:** Codex inspected the existing career findings, course portfolio checklist, repository and supplied résumé; drafted the approaches, stories and acceptance checks; and prepared the documentation integration. The résumé is user-supplied evidence, not independently verified employment history. No student reasoning, source-review participation, peer comment or usability result is fabricated. The original PDF and private career reflection are not committed.
